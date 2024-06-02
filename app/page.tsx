@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Navbar from "./Navbar";
 import Landing from "./Landing";
 import Features from "./Features";
