@@ -3,6 +3,7 @@ import Landing from "./Landing";
 import Features from "./Features";
 import Advantages from "./Advantages";
 import Customize from "./Customize";
+import Testimonial from "./Testimonial";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Features />
       <Advantages />
       <Customize />
+      <Testimonial />
     </>
   );
 }

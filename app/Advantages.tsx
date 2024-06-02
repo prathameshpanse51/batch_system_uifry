@@ -6,7 +6,7 @@ import Image from "next/image";
 export default function Advantages() {
   return (
     <>
-      <div className="md:flex md:flex-row relative md:bottom-[780px]">
+      <div className="md:flex md:flex-row relative md:bottom-[180px] h-[100vh]">
         <div className="px-6 md:pl-40 mt-32">
           <p className="font-medium text-base md:text-lg text-[#ff5555]">
             ADVANTAGES
@@ -29,9 +29,9 @@ export default function Advantages() {
                   <path
                     d="M26 33.488H22M30 20.488C30 18.8967 29.3679 17.3706 28.2427 16.2454C27.1174 15.1202 25.5913 14.488 24 14.488C22.4087 14.488 20.8826 15.1202 19.7574 16.2454C18.6322 17.3706 18 18.8967 18 20.488C18 23.5782 17.2205 25.694 16.3497 27.0934C15.6151 28.2739 15.2479 28.8641 15.2613 29.0288C15.2763 29.2111 15.3149 29.2806 15.4618 29.3896C15.5945 29.488 16.1926 29.488 17.3889 29.488H30.6112C31.8074 29.488 32.4056 29.488 32.5382 29.3896C32.6852 29.2806 32.7238 29.2111 32.7387 29.0288C32.7522 28.8641 32.3849 28.2739 31.6504 27.0935C30.7795 25.694 30 23.5782 30 20.488Z"
                     stroke="white"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 </svg>
 
@@ -119,9 +119,9 @@ export default function Advantages() {
                   width="505.457"
                   height="364.136"
                   filterUnits="userSpaceOnUse"
-                  color-interpolation-filters="sRGB"
+                  colorInterpolationFilters="sRGB"
                 >
-                  <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                  <feFlood floodOpacity="0" result="BackgroundImageFix" />
                   <feBlend
                     mode="normal"
                     in="SourceGraphic"
@@ -140,9 +140,9 @@ export default function Advantages() {
                   width="499.268"
                   height="364.136"
                   filterUnits="userSpaceOnUse"
-                  color-interpolation-filters="sRGB"
+                  colorInterpolationFilters="sRGB"
                 >
-                  <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                  <feFlood floodOpacity="0" result="BackgroundImageFix" />
                   <feBlend
                     mode="normal"
                     in="SourceGraphic"
@@ -158,7 +158,7 @@ export default function Advantages() {
             </svg>
           </svg>
           <div
-            className="w-[200px] h-[60px] rounded-xl flex flex-row items-center gap-4 pl-[9px] z-[999] relative bottom-[25%] left-[47%] bg-white"
+            className="w-[200px] h-[60px] rounded-xl flex flex-row items-center gap-4 pl-[9px] z-[999] relative bottom-[56%] left-[47%] bg-white"
             style={{ boxShadow: "4px 4px 40px 0px #0000001A" }}
           >
             <span className="font-normal text-[8px] text-[#ff0000] absolute left-[155px] mb-6">

@@ -11,7 +11,7 @@ export default function Customize() {
         viewBox="0 0 46 46"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
-        className="relative left-[540px] top-[-1730px] hidden md:flex"
+        className="relative left-[540px] top-[-300px] hidden md:flex"
       >
         <path
           d="M40.9117 4.6793L25.8375 21.3495L45.3253 32.5456L24.8128 23.3606L20.1867 45.3544L22.5835 23.0075L0.236638 25.4043L22.2304 20.7782L13.0454 0.265709L24.2415 19.7535L40.9117 4.6793Z"
@@ -20,7 +20,7 @@ export default function Customize() {
         />
       </svg>
 
-      <div className="md:flex md:flex-row relative md:bottom-[1700px]">
+      <div className="md:flex md:flex-row relative md:bottom-[300px] h-[100vh]">
         <div className="relative bottom-[115px] hidden md:block">
           <svg
             width="720"
@@ -64,9 +64,9 @@ export default function Customize() {
                   width="565.836"
                   height="395.991"
                   filterUnits="userSpaceOnUse"
-                  color-interpolation-filters="sRGB"
+                  colorInterpolationFilters="sRGB"
                 >
-                  <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                  <feFlood floodOpacity="0" result="BackgroundImageFix" />
                   <feBlend
                     mode="normal"
                     in="SourceGraphic"
@@ -85,9 +85,9 @@ export default function Customize() {
                   width="558.398"
                   height="395.991"
                   filterUnits="userSpaceOnUse"
-                  color-interpolation-filters="sRGB"
+                  colorInterpolationFilters="sRGB"
                 >
-                  <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                  <feFlood floodOpacity="0" result="BackgroundImageFix" />
                   <feBlend
                     mode="normal"
                     in="SourceGraphic"
@@ -166,9 +166,9 @@ export default function Customize() {
                   width="449.246"
                   height="704.323"
                   filterUnits="userSpaceOnUse"
-                  color-interpolation-filters="sRGB"
+                  colorInterpolationFilters="sRGB"
                 >
-                  <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                  <feFlood floodOpacity="0" result="BackgroundImageFix" />
                   <feColorMatrix
                     in="SourceAlpha"
                     type="matrix"
@@ -225,7 +225,7 @@ export default function Customize() {
             viewBox="0 0 262 161"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
-            className="z-[999] relative bottom-[31.5%] left-[34%]"
+            className="z-[999] relative bottom-[72%] left-[34%]"
           >
             <g filter="url(#filter0_b_101_380)">
               <rect
@@ -256,10 +256,10 @@ export default function Customize() {
               d="M70.0733 22.6904L70.0674 21.4771H69.6915L69.6902 21.2086H70.7443L70.7456 21.4771H70.3757L70.3816 22.6904H70.0733ZM70.9043 22.6904L70.897 21.2086H71.1954L71.7539 21.9445H71.6147L72.1501 21.2086H72.4485L72.4557 22.6904H72.1474L72.1418 21.5487L72.2653 21.5766L71.698 22.3125H71.6582L71.1037 21.5766L71.207 21.5487L71.2126 22.6904H70.9043Z"
               fill="white"
             />
-            <g clip-path="url(#clip0_101_380)">
+            <g clipPath="url(#clip0_101_380)">
               <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M30.0105 20.8886C30.1586 20.8643 30.3102 20.9119 30.4186 21.0168C31.6792 22.2367 32.3782 23.8695 32.3867 25.6143C32.404 29.1525 29.5397 32.031 26.0016 32.031C23.0749 32.031 20.5122 30.0496 19.7694 27.2126C19.6286 26.6743 19.556 26.1366 19.5534 25.6143C19.5484 24.5889 19.7831 23.6032 20.2511 22.6846C20.7116 21.7816 21.3914 20.9908 22.217 20.3976C22.2218 20.3942 22.2267 20.3908 22.2316 20.3875C22.2621 20.3674 22.2946 20.3435 22.329 20.3183L22.3325 20.3157C22.336 20.3131 22.3394 20.3106 22.3429 20.308C22.3567 20.2979 22.3705 20.2878 22.3844 20.2777C23.6972 19.335 24.5174 17.8736 24.6361 16.2673C24.6478 16.1088 24.7381 15.9671 24.8768 15.8897C25.0154 15.8125 25.1837 15.8099 25.3254 15.8829C26.9523 16.7217 28.151 18.2165 28.6139 19.9841C28.7548 20.5223 28.8274 21.06 28.83 21.5825C28.8313 21.8548 28.8149 22.1264 28.7809 22.3964C29.133 22.0226 29.4317 21.5999 29.6663 21.1398C29.7345 21.0061 29.8622 20.9129 30.0105 20.8886ZM25.6785 27.6631C26.7182 27.6631 27.557 26.8202 27.5519 25.7805C27.5468 24.7409 26.6998 23.898 25.6601 23.898C24.6204 23.898 23.7817 24.7409 23.7868 25.7805C23.7919 26.8202 24.6388 27.6631 25.6785 27.6631Z"
                 fill="white"
               />
@@ -292,9 +292,9 @@ export default function Customize() {
                 width="316.851"
                 height="215.083"
                 filterUnits="userSpaceOnUse"
-                color-interpolation-filters="sRGB"
+                colorInterpolationFilters="sRGB"
               >
-                <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                <feFlood floodOpacity="0" result="BackgroundImageFix" />
                 <feGaussianBlur
                   in="BackgroundImageFix"
                   stdDeviation="13.9429"
@@ -343,9 +343,9 @@ export default function Customize() {
                   <path
                     d="M24 14.9761L22.6985 20.1821C22.4445 21.1979 22.3176 21.7059 22.0531 22.1192C21.8192 22.4848 21.5087 22.7952 21.1431 23.0292C20.7298 23.2936 20.2218 23.4206 19.206 23.6746L14 24.9761L19.206 26.2776C20.2218 26.5315 20.7298 26.6585 21.1431 26.923C21.5087 27.1569 21.8192 27.4674 22.0531 27.833C22.3176 28.2463 22.4445 28.7542 22.6985 29.7701L24 34.9761L25.3015 29.7701C25.5555 28.7542 25.6824 28.2463 25.9469 27.833C26.1808 27.4674 26.4913 27.1569 26.8569 26.923C27.2702 26.6585 27.7782 26.5315 28.794 26.2776L34 24.9761L28.794 23.6746C27.7782 23.4206 27.2702 23.2936 26.8569 23.0292C26.4913 22.7952 26.1808 22.4848 25.9469 22.1192C25.6824 21.7059 25.5555 21.1979 25.3015 20.1821L24 14.9761Z"
                     stroke="white"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 </svg>
 
