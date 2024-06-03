@@ -44,7 +44,7 @@ export default function Testimonial() {
         />
       </svg>
 
-      <div className="h-[100vh] relative md:bottom-[350px]">
+      <div className="h-[100vh] relative bottom-[500px] md:bottom-[350px]">
         <div className="w-[100%] text-center">
           <p className="text-base md:text-lg font-medium tracking-widest">
             TESTIMONIAL
@@ -61,7 +61,7 @@ export default function Testimonial() {
               viewBox="0 0 713 713"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
-              className="scale-[0.5] md:scale-[1]"
+              className="scale-[0.5] md:scale-[1] hidden md:block"
             >
               <path
                 d="M457.53 255.47C510.382 308.322 543.33 371.036 553.896 429.685C564.462 488.336 552.64 542.865 516.041 579.464C479.442 616.063 424.913 627.885 366.262 617.319C307.613 606.753 244.899 573.805 192.047 520.953C139.195 468.101 106.247 405.387 95.6813 346.738C85.1152 288.087 96.9374 233.558 133.536 196.959C170.135 160.36 224.664 148.538 283.315 159.104C341.964 169.67 404.678 202.618 457.53 255.47Z"
@@ -144,7 +144,7 @@ export default function Testimonial() {
                 </filter>
               </defs>
             </svg>
-            <div className="relative bottom-[473px] md:bottom-[600px] scale-[0.5] md:scale-[1]">
+            <div className="relative bottom-[473px] md:bottom-[600px] scale-[0.5] md:scale-[1] hidden md:block">
               <Image
                 src={person2}
                 alt={""}
@@ -192,7 +192,7 @@ export default function Testimonial() {
               />
             </div>
           </div>
-          <div className="flex flex-col gap-6 relative bottom-[380px] md:bottom-0">
+          <div className="flex flex-col gap-6 relative bottom-[150px] md:bottom-0">
             <h1 className="font-semibold text-xl md:text-3xl">
               The Best Financial Accounting App Ever!
             </h1>

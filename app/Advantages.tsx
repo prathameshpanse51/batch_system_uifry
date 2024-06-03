@@ -6,7 +6,7 @@ import Image from "next/image";
 export default function Advantages() {
   return (
     <>
-      <div className="md:flex md:flex-row relative md:bottom-[180px] h-[100vh]">
+      <div className="md:flex md:flex-row relative bottom-[120px] md:bottom-[180px] h-[100vh]">
         <div className="px-6 md:pl-40 mt-32">
           <p className="font-medium text-base md:text-lg text-[#ff5555]">
             ADVANTAGES

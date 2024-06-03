@@ -225,7 +225,7 @@ export default function Features() {
             className="relative left-[170px] top-[-670px]"
           />
         </div>
-        <div className="px-6">
+        <div className="px-6 relative bottom-[50px] md:bottom-0">
           <p className="font-medium text-base md:text-lg text-[#ff5555]">
             FEATURES
           </p>

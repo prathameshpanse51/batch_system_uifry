@@ -20,7 +20,7 @@ export default function Customize() {
         />
       </svg>
 
-      <div className="md:flex md:flex-row relative md:bottom-[300px] h-[100vh]">
+      <div className="md:flex md:flex-row relative bottom-[300px] md:bottom-[300px] h-[100vh]">
         <div className="relative bottom-[115px] hidden md:block">
           <svg
             width="720"
