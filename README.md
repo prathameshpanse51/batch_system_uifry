@@ -19,3 +19,6 @@
 
  ## A brief description of the design choices and any libraries used.
  In my project, I leveraged Next.js for its robust framework that facilitates server-side rendering and static site generation, optimizing performance and SEO. Tailwind CSS was chosen for its utility-first approach, allowing for rapid and responsive design with minimal custom CSS. Additionally, the Shadcn UI library was integrated to streamline the development of user interfaces with pre-designed, customizable components, enhancing both functionality and aesthetics. This combination of technologies ensured a highly efficient, scalable, and visually appealing web application.
+
+## The Figma design link is used as a reference.
+(Figma Link)[https://www.figma.com/design/dvc71PcUEYRKrtnZOapRtI/App-Landing-Page-Finance-Bank-Money-(Community)?node-id=0-1&t=Ng4TwVVnha6zCRF8-0]
