@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+# batch-system-uifry
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+ ## Instructions to run the project locally
+1. Clone the repository:
+    ```sh
+     https://github.com/prathameshpanse51/batch_system_uifry.git
+    ```
+2. Install dependencies:
+    ```sh
+      npm install
+    ```
+3. Run the project locally to see all features in action:
+    ```
+      npm run dev
+    ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ ## Demo Link
+  https://batchsystemuifry.netlify.app/
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+ ## A brief description of the design choices and any libraries used.
+ In my project, I leveraged Next.js for its robust framework that facilitates server-side rendering and static site generation, optimizing performance and SEO. Tailwind CSS was chosen for its utility-first approach, allowing for rapid and responsive design with minimal custom CSS. Additionally, the Shadcn UI library was integrated to streamline the development of user interfaces with pre-designed, customizable components, enhancing both functionality and aesthetics. This combination of technologies ensured a highly efficient, scalable, and visually appealing web application.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## The Figma design link is used as a reference.
+[Figma Link](https://www.figma.com/design/dvc71PcUEYRKrtnZOapRtI/App-Landing-Page-Finance-Bank-Money-(Community)?node-id=0-1&t=Ng4TwVVnha6zCRF8-0)
 
-## Learn More
+ ## Demo Video
+1. Desktop View
+   
+https://github.com/prathameshpanse51/batch_system_uifry/assets/93512551/f6d568d7-3283-4e03-89e1-4e6a17133bff
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+2. Mobile View
+   
+https://github.com/prathameshpanse51/batch_system_uifry/assets/93512551/dcecfe2c-4fcf-4e2b-bab0-47e1d92b6b71
+ 
