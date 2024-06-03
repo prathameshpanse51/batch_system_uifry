@@ -1,3 +1,5 @@
+
+https://github.com/prathameshpanse51/batch_system_uifry/assets/93512551/e7aff8a2-160d-417d-8654-dc46506d9ffb
 # batch-system-uifry
 
  ## Instructions to run the project locally
@@ -22,3 +24,11 @@
 
 ## The Figma design link is used as a reference.
 [Figma Link](https://www.figma.com/design/dvc71PcUEYRKrtnZOapRtI/App-Landing-Page-Finance-Bank-Money-(Community)?node-id=0-1&t=Ng4TwVVnha6zCRF8-0)
+
+ ## Demo Video
+1. Desktop View
+https://github.com/prathameshpanse51/batch_system_uifry/assets/93512551/f6d568d7-3283-4e03-89e1-4e6a17133bff
+
+2. Mobile View
+https://github.com/prathameshpanse51/batch_system_uifry/assets/93512551/dcecfe2c-4fcf-4e2b-bab0-47e1d92b6b71
+ 
